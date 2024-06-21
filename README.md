@@ -1,5 +1,3 @@
-# power-window-control-system
-tiva-c
 # Power Window Control System
 
 This project implements a power window control system for the front passenger door, with controls available from both the passenger and driver control panels. The system uses FreeRTOS and includes features such as manual and automatic window operation, window lock, and jam protection.
